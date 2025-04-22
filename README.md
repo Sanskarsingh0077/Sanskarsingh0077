@@ -1,7 +1,7 @@
 # Welcome to Sanskar's GitHub!
 
 
-## Hi there 👋, I'm Sanskar
+## Hi there 👋 I'm Sanskar
 
 Welcome to my GitHub profile! I'm a passionate **Developer** with a focus on improving my coding skills and becoming the best in my field. I primarily work with **Python** but I'm exploring various other technologies and tools as well. I'm currently improving my problem-solving abilities through **coding challenges** and **algorithms**.
 
