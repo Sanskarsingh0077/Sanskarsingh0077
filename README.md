@@ -64,7 +64,7 @@ I focus on the following to continue my growth:
 3. **Watching Tutorials**: I consume content to stay updated with new tools and techniques.
 4. **Collaborating**: I contribute to open-source and collaborate with other developers to enhance my skills.
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-blue) ![YouTube](https://img.shields.io/badge/YouTube-Channel-red)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-blue) [![YouTube](https://img.shields.io/badge/YouTube-Channel-red)(https://youtube.com)]
 
 ---
 
