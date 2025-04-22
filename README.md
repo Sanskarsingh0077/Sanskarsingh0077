@@ -70,8 +70,8 @@ I focus on the following to continue my growth:
 
 ## Connect with Me
 
-- **LinkedIn:** [![Linkdin](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskarsingh11/)
-- **Email:** [![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:sanskarsingh5129@gmail.com)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskarsingh11/)  
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:sanskarsingh5129@gmail.com)
 
 
 
