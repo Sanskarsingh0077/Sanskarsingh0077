@@ -1,7 +1,7 @@
 # Welcome to Sanskar's GitHub!
 
 
-## Hi there 👋, I'm Sanskar Singh
+## Hi there 👋, I'm Sanskar
 
 Welcome to my GitHub profile! I'm a passionate **Developer** with a focus on improving my coding skills and becoming the best in my field. I primarily work with **Python** but I'm exploring various other technologies and tools as well. I'm currently improving my problem-solving abilities through **coding challenges** and **algorithms**.
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate **Developer** with a focus on imp
 ## About Me
 
 🔹 **Location:** Kanpur  
-🔹 **Tech Stack:** Python, JavaScript, C++, Cybersecurity, Cloud(AWS) 
+🔹 **Tech Stack:** Python, JavaScript, C++, Cybersecurity, Cloud(AWS).
 🔹 **Skills:** Data Structures, Algorithms, Problem Solving, Web Development.
 
 I specialize in **Python** and am working hard to master **algorithms** and **data structures**. I'm learning **competitive programming** and solving problems on platforms like **LeetCode, Codeforces, and HackerRank**.
@@ -64,7 +64,7 @@ I focus on the following to continue my growth:
 ## Connect with Me
 
 - **LinkedIn:** *https://linkedin.com/in/sanskarsingh11*
-- **Email:** [Sanskarsingh5129@gmail.com](mailto:sanskarsingh5129@gmail.com)
+- **Email:** *[Sanskarsingh5129@gmail.com](mailto:sanskarsingh5129@gmail.com)*
 
 
 
