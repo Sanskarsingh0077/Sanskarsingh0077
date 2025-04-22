@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a passionate **Developer** with a focus on imp
 ## About Me
 
 🔹 **Location:** Kanpur  
-🔹 **Tech Stack:** Python, JavaScript, C++, Cybersecurity, Cloud(AWS).
-🔹 **Skills:** Data Structures, Algorithms, Problem Solving, Web Development.
+🔹 **Tech Stack:** Python, JavaScript, C++, Cybersecurity, Cloud(AWS)  
+🔹 **Skills:** Data Structures, Algorithms, Problem Solving, Web Development  
 
 I specialize in **Python** and am working hard to master **algorithms** and **data structures**. I'm learning **competitive programming** and solving problems on platforms like **LeetCode, Codeforces, and HackerRank**.
 
