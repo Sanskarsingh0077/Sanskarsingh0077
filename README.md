@@ -63,7 +63,7 @@ I focus on the following to continue my growth:
 
 ## Connect with Me
 
-- **LinkedIn:** [Sanskarsingh11] (https://linkedin.com/in/sanskarsingh11)
+- **LinkedIn:** *https://linkedin.com/in/sanskarsingh11*
 - **Email:** [Sanskarsingh5129@gmail.com](mailto:sanskarsingh5129@gmail.com)
 
 
