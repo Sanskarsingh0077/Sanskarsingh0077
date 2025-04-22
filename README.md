@@ -64,12 +64,14 @@ I focus on the following to continue my growth:
 3. **Watching Tutorials**: I consume content to stay updated with new tools and techniques.
 4. **Collaborating**: I contribute to open-source and collaborate with other developers to enhance my skills.
 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-blue) ![YouTube](https://img.shields.io/badge/YouTube-Channel-red)
+
 ---
 
 ## Connect with Me
 
-- **LinkedIn:** *https://linkedin.com/in/sanskarsingh11*
-- **Email:** *[Sanskarsingh5129@gmail.com](mailto:sanskarsingh5129@gmail.com)*
+- **LinkedIn:** (https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskarsingh11/)
+- **Email:** (https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:sanskarsingh5129@gmail.com)
 
 
 
