@@ -36,7 +36,7 @@ I'm actively learning through:
 3. **Reading & Research**: I read documentation, blogs, and tutorials to broaden my knowledge.
 4. **Watching Tutorials**: I watch video tutorials to deepen my understanding of complex topics.
 
-![LeetCode Progress](https://img.shields.io/badge/LeetCode-31/75%20Problems-Success?style=flat&logo=leetcode) ![Leetcode Streak](https://img.shields.io/badge/Streak-3%20Days-green?logo=python&logoColor=white)
+![LeetCode Progress](https://img.shields.io/badge/LeetCode-33/75%20Problems-Success?style=flat&logo=leetcode) ![Leetcode Streak](https://img.shields.io/badge/Streak-5%20Days-green?logo=python&logoColor=white)
 
 ---
 
