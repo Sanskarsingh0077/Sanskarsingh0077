@@ -1,4 +1,4 @@
-<img src="github-header-image (1).png" alt="Github Banner" style="width:100%"/>
+<img src="github-header-image (12).png" alt="Github Banner" style="width:100%"/>
 
 ## Hi there 👋  I'm Sanskar
 
