@@ -1,5 +1,4 @@
-# Welcome to Sanskar's GitHub!
-
+<img src="github-header-image (1).png" alt="Github Banner" style="width:100%"/>
 
 ## Hi there 👋  I'm Sanskar
 
